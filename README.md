@@ -1,2 +1,2 @@
-# project01
-Responsive Cafe Menu
+# cafe-menu
+Responsive Cafe Menu using HTML and CSS
